@@ -1,1 +1,1 @@
-luncher
+install this luncher :)
